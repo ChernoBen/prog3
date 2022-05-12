@@ -1,6 +1,9 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
+/*
+Escreva um programa que leia três inteiros e imprima o maior.
+*/
 public class Maior{
     public static void main(String[] args){
         Scanner leitor = new Scanner(System.in);

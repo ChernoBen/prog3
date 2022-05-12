@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.Arrays;
-
+/*
+Numaempresaexisteumatabelaquearmazenaquantofoigastoemcadamês.Parafecharobalançodecadatrimestre,precisamossomarogastototal.SabendoqueemJaneiroforamgastos15000reais,emFevereiro23000reais,emMarço17000reais,emAbril17000reais,emMaio27000reais,emJunho17500reais,emJulho19000,emAgosto21000reais,emSetembro15000reais,emOutubro21000,emNovembro19000reaiseemDezembro20500reais,façaumprogramaquecalculeeimprimaogastototaleogastomédiodurantecadatrimestre.Useumarrayparaarmazenarosvalores da tabela..
+*/
 public class Balanco{
     public static void main(String[] args){
         float[] meses = new float[]{
@@ -21,7 +23,6 @@ public class Balanco{
             }else{
                 trimestre +=1;
                 tri += mes;
-
             }
         }
     }

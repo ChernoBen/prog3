@@ -1,5 +1,8 @@
 import java.util.*;
 
+/*
+Repita o exercício 6 usando ArrayList
+*/
 public class ArrList {
     public static void main(String[] args){
         String leitor = "um dois trees";

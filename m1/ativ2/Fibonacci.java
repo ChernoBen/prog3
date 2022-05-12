@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+AsériedeFibonacciédadapor1,1,2,3,5,8,13,21...FaçaumprogramaquecalculetodososnúmerosdasériedeFibonaccimenoresouiguaisan,ondenéumnúmerointeiro maior que 1, fornecido pelo usuário.
+*/
 public class Fibonacci {
 	public static void main(String[] args){
 		Scanner leitor = new Scanner(System.in);

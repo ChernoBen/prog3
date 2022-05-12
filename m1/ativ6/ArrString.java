@@ -1,5 +1,9 @@
 import java.util.*;
 import java.lang.*;
+
+/*
+FaçaumprogramaqueextraiaaspalavrascontidasemumaStringecoloque-asemumArraydeStrings.EmseguidaoprogramadevepercorreroArraymostrandoaspalavrasemordemdetamanho.Primeiroaspalavrascom1caracter,depoisaspalavras com 2 caracteres, e assim por diante
+*/
 public class ArrString {
     public static void main(String[] args){
         String leitor = "um dois trees";

@@ -1,7 +1,9 @@
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
-
+/*
+Repita o exercício 4 usando um ArrayList para armazenar a tabela.
+*/
 public class Balance{
     public static void main(String[] args){
         ArrayList<Integer> ms = new ArrayList<>(
