@@ -13,9 +13,9 @@ public class Calendario {
       //definindo a data inicial
       LocalDate data = LocalDate.of(ano, mes, 1);
       //imprime o calendário
-      System.out.println("Seg Ter Qua Qui Sex Sab Dom");
+      System.out.println("Dom Seg Ter Qua Qui Sex Sab");
 
-      for(int i=1; i < (data.getDayOfWeek().getValue()); i++){
+      for(int i=0; i < (data.getDayOfWeek().getValue()); i++){
         System.out.print("  ");
       }
 
