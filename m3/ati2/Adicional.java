@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 Continuando o exercício anterior, forneça o método Mensuravel maior(Measuravel[] objs). Use-o para encontrar o nome do empregado com o maior salário. Você precisou fazer algum casting, onde, por que?.
 
-R: Apenas adicionei mais metodos a interface
+R: Não, apenas adicionei mais metodos a interface
 */
 public class Adicional {
 	double media(Mensuravel[] lista){
