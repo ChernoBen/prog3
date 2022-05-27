@@ -5,12 +5,9 @@ public class Adicional{
 	{
 		double somatoria = 0;
 		int tamanhoArray = lista.length;
-		
-		for(int i = 0; i < tamanhoArray; i++)
-		{
+		for(int i = 0; i < tamanhoArray; i++){
 			somatoria += lista[i].getMedida();
 		}
-		
 		return somatoria / tamanhoArray;	
 	}
 
