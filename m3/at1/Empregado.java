@@ -1,8 +1,7 @@
 public class Empregado implements Mensuravel {
 	private String nome;
 	private double salario;
-	public Empregado(String nome, double salario)
-	{
+	public Empregado(String nome, double salario){
 		this.nome = nome;
 		this.salario = salario;
 	}	
