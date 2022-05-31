@@ -1,0 +1,3 @@
+Visibilidade public significa que determinado atributo pode ser acessivel por qualquer outa classe.
+Visibilidade private significa que detrminado atributo apenas poderá ser acessado de dentro do escopo da classe a qual esse atributo pertence.
+Visibilidade protected significa que determinado atributo só poderá ser acessado por classes que herdem da classe a qual esse atributo pertence.
